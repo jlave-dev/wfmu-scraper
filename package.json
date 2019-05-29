@@ -11,12 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/dotenv": "^6.1.1",
     "@types/jsdom": "^12.2.3",
     "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
     "firebase-admin": "^8.0.0",
-    "jsdom": "^15.1.0"
+    "jsdom": "^15.1.0",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^5.8.6"
   },
   "devDependencies": {
+    "@types/sequelize": "^4.28.2",
     "ts-node": "^8.1.0",
     "typescript": "^3.4.5"
   }
