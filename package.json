@@ -19,7 +19,7 @@
     "jsdom": "^15.1.0",
     "pg": "^7.11.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^5.8.6"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "@types/sequelize": "^4.28.2",
